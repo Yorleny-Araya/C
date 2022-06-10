@@ -1,0 +1,85 @@
+Tools:
+
+https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654
+https://www.coderbyte.com/
+https://www.interviewmocha.com/pre-employment-testing/coding-tests
+https://www.codeassess.com/
+
+Fuentes:
+
+**** Turing Machines & Completeness
+- On Computable Numbers - Alan Turing (1936)
+https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+https://www.youtube.com/watch?v=PMdN3N9LhB0
+
+- References:
+  - The New Turing Omnibus - A. K. Dewdney 66 Excursions in Computer Science
+  - The Annotated Turing - Charles Petzold
+  - Cryptonomicon - Neal Stephenson
+  - Gödel, Escher, Bach - Douglas Hofstadter
+
+- Entscheidungsproblem
+https://en.wikipedia.org/wiki/Entscheidungsproblem
+
+***** Digital Computers
+
+- Transitors - The Invention That Changed The World **
+Real Engineering
+https://www.youtube.com/watch?v=OwS9aTE2Go4
+
+- Building logic gates from MOSFET transitors **
+https://www.youtube.com/watch?v=1rZyGL1K5QI
+
+- Transistor (bipolar) - How it works! (Animation)
+https://www.youtube.com/watch?v=9CrcRabTQ0s
+
+- Integrated Circuits & Moore's Law: Crash Course Computer Science #17
+CrashCourse
+https://www.youtube.com/watch?v=6-tKOHICqrI
+
+- PMOS Logic
+https://en.wikipedia.org/wiki/PMOS_logic
+
+- NMOS Logic
+https://en.wikipedia.org/wiki/NMOS_logic
+
+PMOS: 0 -> 1
+      1 -> 0
+NMOS: 0 -> 0
+      1 -> 1
+
+- CMOS (Complementary NMOS)
+https://en.wikipedia.org/wiki/CMOS
+
+- Electronic Symbol
+https://en.wikipedia.org/wiki/Electronic_symbol
+
+- Why do computers count in binary?
+https://www.quora.com/Why-do-computers-count-in-binary/answer/Patanjali-Hardikar
+
+- Computer
+https://en.wikipedia.org/wiki/Computer
+
+- Computer Program
+https://en.wikipedia.org/wiki/Computer_program
+
+- Signal
+https://en.wikipedia.org/wiki/Signal
+
+- Analog signal
+https://en.wikipedia.org/wiki/Analog_signal
+
+- Digital signal
+https://en.wikipedia.org/wiki/Digital_signal
+
+***** Mathematics for Computing
+
+- Matemáticas para Informática - Guía de Estudio (UNED)
+http://repositorio.uned.ac.cr/reuned/bitstream/120809/1375/1/50287%20Matematicas%20para%20informatica.pdf
+
+- Matemáticas para Computación - Alfredo Jiménez Murillo
+http://ebooksdecomputacion.blogspot.com/2017/01/matematicas-para-la-computacion-jimenez-PDF.html
+
+- Matemáticas para la Computación - Seymour Lipschutz
+http://ebooksdecomputacion.blogspot.com/2015/05/matematicas-para-la-computacion-seymour.html
+

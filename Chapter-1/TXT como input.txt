@@ -1,0 +1,3 @@
+Para añadir un archivo TXT como input para un programa:
+
+cat .\sample.txt | .\GetcharDifToEOF.exe
