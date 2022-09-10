@@ -1,10 +1,10 @@
 #include <stdio.h>
-#define MAXLINE 100
+#define MAXLINE 1000
 
 int getoneline(char line[], int maxline);
 void copy(char to[], char from[]);
 
-/* Print longest input line */
+/* Imprime la línea más larga */
 int main ()
 {
     int len;
@@ -28,7 +28,7 @@ int main ()
     return 0;
 }
 
-/* Read a line into s, return length */
+/* Lee una línea y devuelve el tamaño */
 int getoneline(char s[], int lim)
 {
     int c, i;
@@ -45,7 +45,7 @@ int getoneline(char s[], int lim)
     return i;
 }
 
-/* g */
+/* Copia la línea más larga en el arreglo definido */
 void copy(char to[], char from[])
 {
     int i;
